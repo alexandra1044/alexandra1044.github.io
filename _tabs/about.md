@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm Alexandra but everyone calls me Sacha! I currently hold a First Class Batchelor's Degree in Computer Science and am currently working towards obtaining a Master's Degree, also in Computer Science. I would love to progress to PhD study soon. My research interests involve using computational methods to map the evolution and spread of disease. I am trying my best to be an effective science communicator through my blogs. 
