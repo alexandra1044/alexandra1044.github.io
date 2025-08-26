@@ -1,9 +1,5 @@
 # The Site Configuration
 
-favicon:
-  type: "png"
-  path: "assets/images/favicon.png"
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
